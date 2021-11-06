@@ -1,6 +1,6 @@
 # fcitx5-moe
 
-The pink fcitx5 theme is based on fcitx5-nord by modifying simple parameters
+The pink fcitx5 theme is based on [fcitx5-nord](https://github.com/tonyfettes/fcitx5-nord) by modifying simple parameters
 
 ## Screenshot
 
